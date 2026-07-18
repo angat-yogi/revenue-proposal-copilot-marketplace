@@ -1,0 +1,40 @@
+{
+  "name": "revenue-proposal-copilot",
+  "version": "0.1.0",
+  "description": "Turn discovery notes into priced service proposals, SOWs, and client-ready offer packages.",
+  "author": {
+    "name": "Angat Yogi",
+    "url": "https://github.com/angat-yogi"
+  },
+  "homepage": "https://github.com/angat-yogi/revenue-proposal-copilot-marketplace",
+  "repository": "https://github.com/angat-yogi/revenue-proposal-copilot-marketplace",
+  "license": "Proprietary",
+  "keywords": [
+    "proposal",
+    "pricing",
+    "consulting",
+    "sow",
+    "sales"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Revenue Proposal Copilot",
+    "shortDescription": "Draft scoped, priced proposals from sales notes.",
+    "longDescription": "Revenue Proposal Copilot helps consultants, agencies, and technical service teams convert messy discovery notes into clear scopes, fixed-price tiers, assumptions, risk controls, and client-ready proposal language.",
+    "developerName": "Angat Yogi",
+    "category": "Productivity",
+    "capabilities": [
+      "Write",
+      "Analyze"
+    ],
+    "websiteURL": "https://github.com/angat-yogi/revenue-proposal-copilot-marketplace",
+    "privacyPolicyURL": "https://github.com/angat-yogi/revenue-proposal-copilot-marketplace/blob/main/PRIVACY.md",
+    "termsOfServiceURL": "https://github.com/angat-yogi/revenue-proposal-copilot-marketplace/blob/main/TERMS.md",
+    "defaultPrompt": [
+      "Turn these discovery notes into a priced proposal.",
+      "Create three scope tiers for this client project.",
+      "Find risks and missing assumptions in this SOW."
+    ],
+    "brandColor": "#2563EB"
+  }
+}

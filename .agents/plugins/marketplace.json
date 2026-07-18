@@ -1,0 +1,20 @@
+{
+  "name": "revenue-proposal-copilot",
+  "interface": {
+    "displayName": "Revenue Proposal Copilot"
+  },
+  "plugins": [
+    {
+      "name": "revenue-proposal-copilot",
+      "source": {
+        "source": "local",
+        "path": "./plugins/revenue-proposal-copilot"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
