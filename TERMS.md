@@ -8,9 +8,9 @@ Revenue Proposal Copilot provides proposal drafting assistance for business user
 
 You are responsible for reviewing, editing, and approving all generated proposal, pricing, and SOW content before sending it to a client.
 
-## Commercial Terms
+## Free Use
 
-This repository does not include payment processing or license enforcement. Any paid access, subscription, refund policy, or support agreement must be handled through a separate written agreement or commerce platform.
+The plugin is free to use under the MIT License. Any paid consulting, setup, training, or support services must be handled through a separate agreement.
 
 ## No Warranty
 

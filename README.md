@@ -43,19 +43,29 @@ Budget: says they can approve under $25k without board review
 Risk: HIPAA concerns, current CRM API is unclear
 ```
 
-## Monetization
+## Free And Open Source
 
-This repository is structured for distribution, but payment handling is separate. Practical launch options:
+Revenue Proposal Copilot is free to use under the MIT License.
 
-- Sell access through a Gumroad, Lemon Squeezy, Stripe Payment Link, or private GitHub access workflow.
-- Offer paid setup packages for teams that want proposal templates customized to their niche.
-- Keep this public repo as the demo channel and move premium templates into a private repo.
+You can still offer paid services around it, such as custom proposal templates, team setup, training, or workflow consulting, but the plugin itself is free.
 
-Suggested early pricing:
+## Usage Analytics
 
-- Beta license: USD 49 to USD 99.
-- Annual seat: USD 149 to USD 299.
-- Custom setup: USD 300 to USD 1,000.
+Because this plugin is a local Codex plugin with no hosted backend, it does not phone home or track individual installs.
+
+What you can see from GitHub:
+
+- Repository traffic: views and unique visitors.
+- Clone counts: how many times the repo was cloned.
+- Stars, forks, issues, and pull requests.
+- Release asset download counts, if you attach packaged release files.
+
+Where to check:
+
+- GitHub repo page: `Insights` -> `Traffic`.
+- GitHub release page: download counts on release assets.
+
+If you need exact install or active-use analytics later, add an optional hosted service with clear user consent. Do not add hidden telemetry.
 
 ## Repository Layout
 
