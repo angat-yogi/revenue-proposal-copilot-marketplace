@@ -23,11 +23,10 @@ Clone this repository, add this repository root as a Codex plugin marketplace, t
 
 ```bash
 git clone https://github.com/angat-yogi/revenue-proposal-copilot-marketplace.git
-codex plugin marketplace add revenue-proposal-copilot-marketplace
+cd revenue-proposal-copilot-marketplace
+codex plugin marketplace add "$(pwd)"
 codex plugin add revenue-proposal-copilot@revenue-proposal-copilot
 ```
-
-If your Codex CLI expects an absolute marketplace path, run the marketplace add command from the parent directory or pass the absolute path to this repository root.
 
 ## Try It
 
